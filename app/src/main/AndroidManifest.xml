@@ -11,6 +11,8 @@
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
 
     <application
         android:allowBackup="true"
@@ -19,23 +21,26 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.DailyHunt_Clone">
-        <activity android:name=".ActivityProfile"></activity>
-
-        <meta-data
-            android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyCWhOENDpdi_Cs1e7KamWVzcDEUbTPmHzc" />
-
-        <activity android:name=".CreatePostActivity"></activity>
-        <activity android:name=".DiscoveryActivity" />
-        <activity android:name=".BrowseActivity" />
-        <activity android:name=".VideoActivity" />
-        <activity android:name=".HomeActivity">
+        <activity android:name=".ActivityUserRegister"></activity>
+        <activity android:name=".ActivityUserLogin" />
+        <activity android:name=".ActivityProfile" />
+        <activity android:name=".IntroductionActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyCWhOENDpdi_Cs1e7KamWVzcDEUbTPmHzc" />
+
+        <activity android:name=".CreatePostActivity" />
+        <activity android:name=".DiscoveryActivity" />
+        <activity android:name=".BrowseActivity" />
+        <activity android:name=".VideoActivity" />
+        <activity android:name=".HomeActivity" />
         <activity android:name=".MainActivity" />
     </application>
 

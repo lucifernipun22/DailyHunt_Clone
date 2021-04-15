@@ -10,6 +10,7 @@ import androidx.viewpager.widget.ViewPager
 import com.example.dailyhunt_clone.Fragment.ViewPager.ViewPagerFragmentAdapter
 import com.google.android.material.bottomsheet.BottomSheetDialog
 import com.google.android.material.tabs.TabLayout
+import de.hdodenhof.circleimageview.CircleImageView
 
 class HomeActivity : AppCompatActivity() {
     private lateinit var pagerAdapter: ViewPagerFragmentAdapter
@@ -35,6 +36,12 @@ class HomeActivity : AppCompatActivity() {
         val createPost = findViewById<CardView>(R.id.createPost)
         createPost.setOnClickListener {
             val intent =Intent(this, CreatePostActivity::class.java)
+            startActivity(intent)
+        }
+
+        val btn = findViewById<CircleImageView>(R.id.profile_image)
+        btn.setOnClickListener {
+            val intent = Intent(this, ActivityProfile::class.java)
             startActivity(intent)
         }
 
