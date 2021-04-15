@@ -25,8 +25,8 @@
     <color name="colorWhite">#FFFFFF</color>
     <color name="colorBackgroundDark">#101D24</color>
     <color name="colorToolbarDark">#222D36</color>
-    <color name="backgroundColor">#FCFCFC</color>
-    <color name="textColor">#000000</color>
+    <color name="backgroundColor">#212121</color>
+    <color name="textColor">#FFFFFF</color>
     <color name="colorGreenDarker">#002626</color>
     <color name="colorAccentAlpha_10">#1A95C623</color>
     <color name="colorGreenDarkerAlpha_10">#1A002626</color>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.motion.widget.MotionLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    app:layoutDescription="@xml/onboarding_scene">
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/car_view"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:src="@drawable/onboarding_1" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/title_view_first"
+        style="@style/OnBoardingTitle"
+        android:text="@string/title_on_boarding_first_slide" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/subtitle_view_first"
+        style="@style/OnBoardingSubTitle"
+        android:text="Comic Books, Videos,\n Audios &amp; Article"
+        />
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/car_vin_code_view"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:src="@drawable/onboarding_2" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/title_view_second"
+        style="@style/OnBoardingTitle"
+        android:text="@string/title_on_boarding_second_slide" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/subtitle_view_second"
+        style="@style/OnBoardingSubTitle"
+        android:text="@string/description_on_boarding_second_slide" />
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/order_box_view"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:src="@drawable/onboarding_3"/>
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/title_view_third"
+        style="@style/OnBoardingTitle"
+        android:text="@string/title_on_boarding_third_slide" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/subtitle_view_third"
+        style="@style/OnBoardingSubTitle"
+        android:text="@string/description_on_boarding_third_slide" />
+
+    <View
+        android:id="@+id/indicator_view_first"
+        android:layout_width="@dimen/spacing_medium"
+        android:layout_height="@dimen/spacing_medium"
+        android:background="@drawable/background_indicator_disabled" />
+
+    <View
+        android:id="@+id/indicator_view_second"
+        android:layout_width="@dimen/spacing_medium"
+        android:layout_height="@dimen/spacing_medium"
+        android:background="@drawable/background_indicator_disabled" />
+
+    <View
+        android:id="@+id/indicator_view_third"
+        android:layout_width="@dimen/spacing_medium"
+        android:layout_height="@dimen/spacing_medium"
+        android:background="@drawable/background_indicator_disabled" />
+
+    <View
+        android:id="@+id/indicator_view_active"
+        android:layout_width="@dimen/spacing_medium"
+        android:layout_height="@dimen/spacing_medium"
+        android:background="@drawable/background_indicator_enabled" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/button_get_started"
+        android:text="@string/title_button_get_started"
+        style="@style/OnBoarding.Button"
+        android:textColor="@color/white"/>
+</androidx.constraintlayout.motion.widget.MotionLayout>

@@ -6,8 +6,8 @@
     android:layout_height="match_parent"
     android:orientation="vertical">
 
-    <!--<include layout="@layout/toolbar" />
--->
+
+
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="100dp"
@@ -35,19 +35,17 @@
         android:layout_height="wrap_content"
         android:layout_margin="20dp"
         app:mrl_rippleAlpha="0.2"
-        app:mrl_rippleColor="@color/blue"
+        app:mrl_rippleColor="@color/colorRipple"
         app:mrl_rippleHover="true"
         app:mrl_rippleOverlay="true">
 
-        <androidx.appcompat.widget.AppCompatButton
+        <Button
             android:id="@+id/btn_update"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:background="@drawable/bg_button_background"
             android:text="@string/logout_title"
-            android:backgroundTint="@color/blue"
-            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
             android:textColor="@color/colorWhite"
             android:textStyle="bold" />
 

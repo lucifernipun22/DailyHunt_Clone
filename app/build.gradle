@@ -71,7 +71,7 @@ dependencies {
     //Times Formater
     implementation 'org.ocpsoft.prettytime:prettytime:4.0.1.Final'
     implementation 'com.balysv:material-ripple:1.0.2'
-    implementation 'com.makeramen:roundedimageview:2.3.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.0.0-beta1'
     //Glide
     implementation 'com.github.bumptech.glide:glide:4.11.0'
     implementation 'com.github.bumptech.glide:annotations:4.11.0'
