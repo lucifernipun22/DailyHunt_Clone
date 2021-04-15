@@ -7,4 +7,20 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#424242</color>
+    <color name="colorPrimaryDark">#1b1b1b</color>
+    <color name="colorPrimaryLight">#6d6d6d</color>
+    <color name="colorAccent">#ced7db</color>
+    <color name="colorTextPrimary">#ffffff</color>
+    <color name="colorTextSecondary">#000000</color>
+    <color name="cardBackground">#ddd</color>
+    <color name="recyclerViewDivider">#61ced7db</color>
+    <color name="gradient_start">#7f000000</color>
+    <color name="gradient_end">#00000000</color>
+    <color name="option_item_tint_color">#ad000000</color>
+    <color name="red">#dd4436</color>
+    <color name="blue">#0583ea</color>
+    <color name="transparent_orange">#90FB8C00</color>
+    <color name="colorRipple">#BCBEC1</color>
+    <color name="colorWhite">#FFFFFF</color>
 </resources>
