@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    class="com.example.dailyhunt_clone.VideoActivity"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/coordinator"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toTopOf="@+id/bottomActionbarDiscover"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+            <FrameLayout
+                android:id="@+id/fragment_container"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/constraintLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/cardView"
+            style="@style/actionbar_cardView_style"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+
+            <de.hdodenhof.circleimageview.CircleImageView xmlns:app="http://schemas.android.com/apk/res-auto"
+                android:id="@+id/profile_image"
+                style="@style/discover_title_textStyle2"
+                android:src="@drawable/profile" />
+
+
+            <SearchView
+                android:id="@+id/simpleSearchView"
+                android:layout_width="300dp"
+                android:layout_height="25dp"
+                android:layout_gravity="center"
+                android:iconifiedByDefault="false"
+                android:queryHint="Search News, Videos &amp; Memes" />
+
+
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:src="@drawable/ic_bell"
+                android:layout_gravity="center_horizontal|end"
+                android:layout_marginEnd="10dp"
+                app:layout_constraintEnd_toEndOf="parent" />
+
+
+
+        </androidx.cardview.widget.CardView>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+    <com.google.android.material.tabs.TabLayout
+        android:id="@+id/tabLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/white"
+        android:minHeight="?attr/actionBarSize"
+        app:layout_constraintBottom_toBottomOf="@+id/coordinator"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/constraintLayout"
+        app:layout_constraintVertical_bias="0.0"
+        app:tabGravity="center"
+        app:tabMode="scrollable"
+        app:tabIndicatorColor="@color/red"
+        app:tabSelectedTextColor="@color/red"
+        app:tabPaddingEnd="16dp"
+        app:tabIconTint="@color/red"
+        app:tabIndicatorFullWidth="false"
+        app:tabPaddingStart="16dp"
+        app:tabTextAppearance="@style/AppTheme.Headlines.TabTextAppearance"
+        app:tabTextColor="@android:color/black" />
+
+    <View
+        android:id="@+id/view"
+        android:layout_width="match_parent"
+        android:layout_height="0.2dp"
+        android:background="#c3c2c5"
+        app:layout_constraintTop_toBottomOf="@+id/tabLayout" />
+
+    <androidx.viewpager.widget.ViewPager
+        android:id="@+id/home_viewPager"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/view" />
+
+
+    <View
+        android:id="@+id/bottomActionbarDiscover"
+        style="@style/btoom_action_bar_style"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <ImageView
+        android:id="@+id/camera"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_house_black_silhouette_without_door2"
+        app:layout_constraintBottom_toBottomOf="@id/bottomActionbarDiscover"
+        app:layout_constraintEnd_toStartOf="@+id/gallery"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@id/bottomActionbarDiscover" />
+
+    <TextView
+        android:id="@+id/tvHome"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:text="@string/home"
+        android:textSize="10sp"
+        android:textColor="@color/black"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/camera"
+        app:layout_constraintStart_toStartOf="@+id/camera" />
+
+    <ImageView
+        android:id="@+id/gallery"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_tv2"
+        app:layout_constraintBottom_toBottomOf="@id/bottomActionbarDiscover"
+        app:layout_constraintEnd_toStartOf="@+id/location"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/camera"
+        app:layout_constraintTop_toTopOf="@id/bottomActionbarDiscover" />
+
+    <TextView
+        android:id="@+id/tvDepartment"
+        android:layout_width="35dp"
+        android:layout_height="14dp"
+        android:layout_marginBottom="5dp"
+        android:text="@string/videos"
+        android:textColor="@color/red"
+        android:textStyle="bold"
+        android:textSize="10sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/gallery"
+        app:layout_constraintStart_toStartOf="@+id/gallery" />
+
+    <ImageView
+        android:id="@+id/location"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_cricket"
+        app:layout_constraintBottom_toBottomOf="@id/bottomActionbarDiscover"
+        app:layout_constraintEnd_toStartOf="@+id/ivHeart"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/gallery"
+        app:layout_constraintTop_toTopOf="@id/bottomActionbarDiscover" />
+
+    <TextView
+        android:id="@+id/tvAlert"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:text="@string/betway"
+        android:textColor="@color/black"
+        android:textSize="10sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/bottomActionbarDiscover"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <ImageView
+        android:id="@+id/ivHeart"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_star"
+        app:layout_constraintBottom_toBottomOf="@id/bottomActionbarDiscover"
+        app:layout_constraintEnd_toStartOf="@+id/ivSettings"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/location"
+        app:layout_constraintTop_toTopOf="@id/bottomActionbarDiscover" />
+
+    <TextView
+        android:id="@+id/tvWishList"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:text="@string/follow"
+        android:textColor="@color/black"
+        android:textSize="10sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/ivHeart"
+        app:layout_constraintStart_toStartOf="@+id/ivHeart" />
+
+    <ImageView
+        android:id="@+id/ivSettings"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_menu"
+        app:layout_constraintBottom_toBottomOf="@id/bottomActionbarDiscover"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/ivHeart"
+        app:layout_constraintTop_toTopOf="@id/bottomActionbarDiscover" />
+
+    <TextView
+        android:id="@+id/tvProfile"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:text="@string/more"
+        android:textColor="@color/black"
+        android:textSize="10sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/ivSettings"
+        app:layout_constraintStart_toStartOf="@+id/ivSettings" />
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:background="@color/white"
+        app:cardCornerRadius="360dp"
+        app:layout_constraintBottom_toTopOf="@id/bottomActionbarDiscover"
+        app:layout_constraintEnd_toEndOf="parent">
+
+        <ImageView
+            android:id="@+id/ivDecline1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@drawable/twocolor"
+            android:padding="20dp"
+            android:src="@drawable/ic_edit" />
+    </androidx.cardview.widget.CardView>
+</androidx.constraintlayout.widget.ConstraintLayout>

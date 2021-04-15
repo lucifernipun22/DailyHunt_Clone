@@ -1,3 +1,41 @@
 <resources>
     <string name="app_name">DailyHunt_Clone</string>
+    <string name="home">Home</string>
+    <string name="videos">Videos</string>
+    <string name="follow">Follow</string>
+    <string name="more">More</string>
+    <string name="betway">Betway</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="share">Share...</string>
+    <string name="browse_news18">Browse News18</string>
+    <string name="block_news18">Block News18</string>
+    <string name="show_less_of_such_content">Show less of such content</string>
+    <string name="report">Report</string>
+    <string name="browse">Browse</string>
+    <string name="discovery">Discovery</string>
+    <string name="newspapers">Newspapers</string>
+    <string name="national">National</string>
+    <string name="regional">Regional</string>
+    <string name="title_about_theme">Dark Theme</string>
+    <string name="title_about_privacy">Privacy Policy</string>
+    <string name="title_about_rate">Rate Us</string>
+    <string name="title_about_more">More Apps</string>
+    <string name="title_about_info">About</string>
+    <string name="sub_title_about_theme">Better for eyesight and battery life</string>
+    <string name="sub_title_about_privacy">App Terms &amp; Policies</string>
+    <string name="sub_title_about_rate">Leave a review on the Google Play</string>
+    <string name="sub_title_about_more">More apps from developer</string>
+    <string name="sub_title_about_info">App Info, Build Version, Copyright</string>
+    <string name="txt_profile_welcome">Welcome!</string>
+    <string name="txt_profile_not_registered">Not registered?</string>
+    <string name="txt_profile_register_now">Register Now</string>
+    <string name="txt_profile_login">LOGIN</string>
+    <string name="updating_profile">Updating Profile</string>
+    <string name="success_updating_profile">Update Successfully</string>
+    <string name="waiting_message">Please wait&#8230;</string>
+    <string name="logout_title">Logout</string>
+    <string name="logout_message">Are you sure want to logout?</string>
+    <string name="logout_process">Processing logout to your account&#8230;</string>
+    <string name="logout_success">Logout Successfully</string>
 </resources>
