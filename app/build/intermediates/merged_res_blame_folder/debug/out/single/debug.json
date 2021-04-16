@@ -1,0 +1,578 @@
+[
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\font_roboto_slab_bold.ttf.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\font\\roboto_slab_bold.ttf"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_following.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\layout\\fragment_following.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_deccan.jpeg.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable-v24\\deccan.jpeg"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_edit.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable-ldpi\\ic_edit.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_background_indicator_disabled.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable-mdpi\\background_indicator_disabled.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_button_text_color_selector.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable-mdpi\\button_text_color_selector.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_cricket_league.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\layout\\fragment_cricket_league.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_message.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable\\ic_message.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_cricket.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable\\ic_cricket.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_stat_onesignal_default.png.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable-v24\\ic_stat_onesignal_default.png"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_line_vertical.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable-v24\\line_vertical.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\layout_video_item.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\layout\\video_item.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\layout_include_sign_out.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\layout\\include_sign_out.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\xml_onboarding_scene.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\xml\\onboarding_scene.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_tv2.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable\\ic_tv2.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_grey_border.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable-ldpi\\grey_border.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_statesman.jpeg.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable-v24\\statesman.jpeg"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable_twocolor.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable\\twocolor.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_headlines.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable-ldpi\\ic_headlines.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_bell.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable-ldpi\\ic_bell.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_location_on_24.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable\\ic_baseline_location_on_24.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_background_indicator_enabled.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable-mdpi\\background_indicator_enabled.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_htimes.jpeg.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable-v24\\htimes.jpeg"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_corona_virus.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\layout\\fragment_corona_virus.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_assembly_election.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\layout\\fragment_assembly_election.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_news.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\layout\\fragment_news.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\layout_include_about.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\layout\\include_about.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_business_finance.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\layout\\fragment_business_finance.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_photo_camera_24.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable\\ic_baseline_photo_camera_24.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_bg_button_background.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable-mdpi\\bg_button_background.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_bell.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable\\ic_bell.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_user_register.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\layout\\activity_user_register.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_setting_theme.png.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable-mdpi\\ic_setting_theme.png"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bbclogo.jpg.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable\\bbclogo.jpg"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_background_button_accent.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable-mdpi\\background_button_accent.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_email_24.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable\\ic_baseline_email_24.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_outlook.jpeg.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable-v24\\outlook.jpeg"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_senatial.jpeg.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable-v24\\senatial.jpeg"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_star.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable\\ic_star.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_house_black_silhouette_without_door2.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable\\ic_house_black_silhouette_without_door2.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\layout_more_bottom_sheet_layout.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\layout\\more_bottom_sheet_layout.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_house_black_silhouette_without_door.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable\\ic_house_black_silhouette_without_door.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_share.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable\\ic_share.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_grey_line.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable-ldpi\\grey_line.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_theindianexpress.jpeg.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable-v24\\theindianexpress.jpeg"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\layout_bottom_sheet_layout.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\layout\\bottom_sheet_layout.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_about_rate.png.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable-mdpi\\ic_about_rate.png"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_edit.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable-mdpi\\ic_edit.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_twocolor.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable-hdpi\\twocolor.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable-hdpi\\ic_menu.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\raw_map_style.json.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\raw\\map_style.json"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_user.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable\\ic_user.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_browse.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\layout\\activity_browse.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_indiatv.jpeg.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable-v24\\indiatv.jpeg"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\font_roboto_slab_regular.ttf.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\font\\roboto_slab_regular.ttf"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_house_black_silhouette_without_door.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable-mdpi\\ic_house_black_silhouette_without_door.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_star.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable-ldpi\\ic_star.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_retweet.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable\\ic_retweet.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable_blue_rectangle.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable\\blue_rectangle.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_whatsapp.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable\\ic_whatsapp.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_thenew.jpeg.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable-v24\\thenew.jpeg"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_house_black_silhouette_without_door.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable-hdpi\\ic_house_black_silhouette_without_door.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_lokmat.jpeg.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable-v24\\lokmat.jpeg"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_bell.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable-hdpi\\ic_bell.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable_red_loctation.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable\\red_loctation.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_cricket.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable-ldpi\\ic_cricket.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu__1_.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable\\ic_menu__1_.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_star2.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable\\ic_star2.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\layout_news_item.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\layout\\news_item.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_edt_name.png.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable-ldpi\\ic_edt_name.png"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_edt_email.png.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable-ldpi\\ic_edt_email.png"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_entertainment.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\layout\\fragment_entertainment.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\color_tab_icon_selector.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\color\\tab_icon_selector.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_onboarding_1.png.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable-mdpi\\onboarding_1.png"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_edt_password.png.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable-ldpi\\ic_edt_password.png"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_vpn_key_24.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable\\ic_baseline_vpn_key_24.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_twocolor.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable-mdpi\\twocolor.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_twocolor.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable-ldpi\\twocolor.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_edit.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable-hdpi\\ic_edit.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_profile.jpg.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable-v24\\profile.jpg"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_video.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\layout\\activity_video.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_grey_circle.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable-ldpi\\grey_circle.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_about_more.png.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable-mdpi\\ic_about_more.png"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\layout_include_sign_in.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\layout\\include_sign_in.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_onboarding_2.png.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable-mdpi\\onboarding_2.png"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_house_black_silhouette_without_door.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable-ldpi\\ic_house_black_silhouette_without_door.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_tv.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable\\ic_tv.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_menu.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable-mdpi\\ic_menu.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_betway_sports.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\layout\\fragment_betway_sports.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_star.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable-mdpi\\ic_star.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_blocked.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable\\ic_blocked.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add_gallery_56.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable\\ic_add_gallery_56.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_notification_icon.webp.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable-v24\\notification_icon.webp"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_create_post2.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\layout\\activity_create_post2.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_introduction.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\layout\\activity_introduction.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_cricket.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable-hdpi\\ic_cricket.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_finincial.jpeg.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable-v24\\finincial.jpeg"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_discovery.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\layout\\activity_discovery.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_menu.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable-ldpi\\ic_menu.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_profile.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_onboarding_3.png.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable-mdpi\\onboarding_3.png"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_telegraph.jpeg.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable-v24\\telegraph.jpeg"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_deccanherald.jpeg.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable-v24\\deccanherald.jpeg"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_user_account.png.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable-mdpi\\ic_user_account.png"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_compass.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable\\ic_compass.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_web.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable\\ic_web.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_tv.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable-hdpi\\ic_tv.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_notification_large.png.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable-v24\\ic_notification_large.png"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_about_privacy.png.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable-mdpi\\ic_about_privacy.png"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_homes.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\layout\\activity_homes.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_cricket.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable-mdpi\\ic_cricket.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_tv.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable-mdpi\\ic_tv.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_tv.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable-ldpi\\ic_tv.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_edit.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable\\ic_edit.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_user_login.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\layout\\activity_user_login.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_for_you.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\layout\\fragment_for_you.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_thumb_down.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable\\ic_thumb_down.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_star.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable-hdpi\\ic_star.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_copyright.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable\\ic_copyright.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_newspaper_folded.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable\\ic_newspaper_folded.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable\\ic_menu.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_browse.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\layout\\fragment_browse.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_like.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable\\ic_like.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_bell.xml.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable-mdpi\\ic_bell.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_about_info.png.flat",
+        "source": "D:\\GitHub\\DailyHunt_Clone\\app\\src\\main\\res\\drawable-mdpi\\ic_about_info.png"
+    }
+]

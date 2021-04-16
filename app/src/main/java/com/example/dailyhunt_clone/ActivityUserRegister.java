@@ -20,7 +20,8 @@ public class ActivityUserRegister extends AppCompatActivity {
 
         btnRegister = findViewById(R.id.btn_update);
         btnLogin = findViewById(R.id.btn_login2);
-       btnLogin.setOnClickListener(new View.OnClickListener() {
+
+        btnLogin.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 intent = new Intent(ActivityUserRegister.this, ActivityUserLogin.class);
