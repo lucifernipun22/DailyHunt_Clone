@@ -28,7 +28,7 @@
         android:id="@+id/car_vin_code_view"
         android:layout_width="200dp"
         android:layout_height="200dp"
-        android:src="@drawable/onboarding_2" />
+        android:src="@drawable/onboarding_3" />
 
     <androidx.appcompat.widget.AppCompatTextView
         android:id="@+id/title_view_second"
@@ -44,7 +44,7 @@
         android:id="@+id/order_box_view"
         android:layout_width="200dp"
         android:layout_height="200dp"
-        android:src="@drawable/onboarding_3"/>
+        android:src="@drawable/onboarding_2"/>
 
     <androidx.appcompat.widget.AppCompatTextView
         android:id="@+id/title_view_third"

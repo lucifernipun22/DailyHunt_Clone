@@ -22,17 +22,17 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.DailyHunt_Clone">
         <activity android:name=".ActivityPostDetailOffline">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
 
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
         </activity>
         <activity android:name=".ActivityUserRegister" />
         <activity android:name=".ActivityUserLogin" />
         <activity android:name=".ActivityProfile" />
         <activity android:name=".IntroductionActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
 
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
         </activity>
 
         <meta-data

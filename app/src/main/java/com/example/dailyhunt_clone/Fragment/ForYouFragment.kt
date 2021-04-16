@@ -40,6 +40,8 @@ class ForYouFragment : Fragment() {
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
         initViews(view)
+
+
     }
 
     private fun initViews(view: View) {

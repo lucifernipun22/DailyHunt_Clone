@@ -15,7 +15,7 @@ class Network {
             val httpLoggingInterceptor = HttpLoggingInterceptor().setLevel(HttpLoggingInterceptor.Level.BODY)
 
             val retrofitBuilder = Retrofit.Builder()
-                .baseUrl("https://25c3d1b0a2d2.ngrok.io")
+                .baseUrl("https://234b28b4757b.ngrok.io")
                 .addConverterFactory(GsonConverterFactory.create())
                 .client(OkHttpClient.Builder().addInterceptor(httpLoggingInterceptor).build())
 

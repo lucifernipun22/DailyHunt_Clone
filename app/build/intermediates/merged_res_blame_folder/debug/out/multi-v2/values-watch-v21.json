@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\GitHub\\DailyHunt_Clone\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-watch-v21\\values-watch-v21.xml",
+            "outputFile": "N:\\DailyHunt\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-watch-v21\\values-watch-v21.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Tejee\\.gradle\\caches\\transforms-2\\files-2.1\\cebede02a1d4f46bad9c810c7f8ca43a\\appcompat-1.2.0\\res\\values-watch-v21\\values-watch-v21.xml",
+                    "source": "C:\\Users\\hacke\\.gradle\\caches\\transforms-2\\files-2.1\\cebede02a1d4f46bad9c810c7f8ca43a\\appcompat-1.2.0\\res\\values-watch-v21\\values-watch-v21.xml",
                     "from": {
                         "startLines": "2,6,10",
                         "startColumns": "4,4,4",
