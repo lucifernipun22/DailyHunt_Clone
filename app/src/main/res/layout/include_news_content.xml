@@ -128,8 +128,8 @@
                 <ImageView
                     android:layout_width="16dp"
                     android:layout_height="16dp"
-                    android:src="@drawable/ic_comment"
-                    android:tint="@color/colorGreyMedium"
+                    android:src="@drawable/ic_baseline_mode_comment_24"
+                    android:backgroundTint="@color/colorGreyMedium"
                     android:visibility="visible" />
 
                 <TextView
@@ -150,7 +150,7 @@
 
     </RelativeLayout>
 
-    <com.app.androidnewsapp.utils.TemplateView
+    <com.example.dailyhunt_clone.TemplateView
         android:id="@+id/my_template"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

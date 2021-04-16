@@ -117,5 +117,7 @@
         <item name="android:textSize">@dimen/text_xx_medium</item>
         <item name="android:textColor">@drawable/button_text_color_selector</item>
     </style>
-
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
+        <item name="colorControlNormal">@android:color/white</item>
+    </style>
 </resources>
