@@ -34,6 +34,8 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/Theme.DailyHunt_Clone" >
+        <activity android:name="com.example.dailyhunt_clone.ActivityPostDetailOffline" >
+        </activity>
         <activity android:name="com.example.dailyhunt_clone.ActivityUserRegister" />
         <activity android:name="com.example.dailyhunt_clone.ActivityUserLogin" />
         <activity android:name="com.example.dailyhunt_clone.ActivityProfile" />

@@ -6,221 +6,225 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="21"
-8-->D:\GitHub\DailyHunt_Clone\app\src\main\AndroidManifest.xml
+8-->N:\DailyHunt\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="30" />
-9-->D:\GitHub\DailyHunt_Clone\app\src\main\AndroidManifest.xml
+9-->N:\DailyHunt\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->D:\GitHub\DailyHunt_Clone\app\src\main\AndroidManifest.xml:5:5-67
-11-->D:\GitHub\DailyHunt_Clone\app\src\main\AndroidManifest.xml:5:22-64
+11-->N:\DailyHunt\app\src\main\AndroidManifest.xml:5:5-67
+11-->N:\DailyHunt\app\src\main\AndroidManifest.xml:5:22-64
 12    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-12-->D:\GitHub\DailyHunt_Clone\app\src\main\AndroidManifest.xml:6:5-79
-12-->D:\GitHub\DailyHunt_Clone\app\src\main\AndroidManifest.xml:6:22-76
+12-->N:\DailyHunt\app\src\main\AndroidManifest.xml:6:5-79
+12-->N:\DailyHunt\app\src\main\AndroidManifest.xml:6:22-76
 13    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
-13-->D:\GitHub\DailyHunt_Clone\app\src\main\AndroidManifest.xml:7:5-81
-13-->D:\GitHub\DailyHunt_Clone\app\src\main\AndroidManifest.xml:7:22-78
+13-->N:\DailyHunt\app\src\main\AndroidManifest.xml:7:5-81
+13-->N:\DailyHunt\app\src\main\AndroidManifest.xml:7:22-78
 14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-14-->D:\GitHub\DailyHunt_Clone\app\src\main\AndroidManifest.xml:8:5-79
-14-->D:\GitHub\DailyHunt_Clone\app\src\main\AndroidManifest.xml:8:22-76
+14-->N:\DailyHunt\app\src\main\AndroidManifest.xml:8:5-79
+14-->N:\DailyHunt\app\src\main\AndroidManifest.xml:8:22-76
 15    <uses-permission android:name="android.permission.READ_CONTACTS" />
-15-->D:\GitHub\DailyHunt_Clone\app\src\main\AndroidManifest.xml:9:5-72
-15-->D:\GitHub\DailyHunt_Clone\app\src\main\AndroidManifest.xml:9:22-69
+15-->N:\DailyHunt\app\src\main\AndroidManifest.xml:9:5-72
+15-->N:\DailyHunt\app\src\main\AndroidManifest.xml:9:22-69
 16    <uses-permission android:name="android.permission.CAMERA" />
-16-->D:\GitHub\DailyHunt_Clone\app\src\main\AndroidManifest.xml:10:5-65
-16-->D:\GitHub\DailyHunt_Clone\app\src\main\AndroidManifest.xml:10:22-62
+16-->N:\DailyHunt\app\src\main\AndroidManifest.xml:10:5-65
+16-->N:\DailyHunt\app\src\main\AndroidManifest.xml:10:22-62
 17    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-17-->D:\GitHub\DailyHunt_Clone\app\src\main\AndroidManifest.xml:11:5-81
-17-->D:\GitHub\DailyHunt_Clone\app\src\main\AndroidManifest.xml:11:22-78
+17-->N:\DailyHunt\app\src\main\AndroidManifest.xml:11:5-81
+17-->N:\DailyHunt\app\src\main\AndroidManifest.xml:11:22-78
 18    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-18-->D:\GitHub\DailyHunt_Clone\app\src\main\AndroidManifest.xml:12:5-80
-18-->D:\GitHub\DailyHunt_Clone\app\src\main\AndroidManifest.xml:12:22-77
+18-->N:\DailyHunt\app\src\main\AndroidManifest.xml:12:5-80
+18-->N:\DailyHunt\app\src\main\AndroidManifest.xml:12:22-77
 19    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
-19-->D:\GitHub\DailyHunt_Clone\app\src\main\AndroidManifest.xml:13:5-85
-19-->D:\GitHub\DailyHunt_Clone\app\src\main\AndroidManifest.xml:13:22-82
+19-->N:\DailyHunt\app\src\main\AndroidManifest.xml:13:5-85
+19-->N:\DailyHunt\app\src\main\AndroidManifest.xml:13:22-82
 20    <uses-permission android:name="android.permission.VIBRATE" />
-20-->D:\GitHub\DailyHunt_Clone\app\src\main\AndroidManifest.xml:14:5-66
-20-->D:\GitHub\DailyHunt_Clone\app\src\main\AndroidManifest.xml:14:22-63
+20-->N:\DailyHunt\app\src\main\AndroidManifest.xml:14:5-66
+20-->N:\DailyHunt\app\src\main\AndroidManifest.xml:14:22-63
 21    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
-21-->D:\GitHub\DailyHunt_Clone\app\src\main\AndroidManifest.xml:15:5-76
-21-->D:\GitHub\DailyHunt_Clone\app\src\main\AndroidManifest.xml:15:22-73
+21-->N:\DailyHunt\app\src\main\AndroidManifest.xml:15:5-76
+21-->N:\DailyHunt\app\src\main\AndroidManifest.xml:15:22-73
 22
 23    <uses-feature
-23-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Tejee\.gradle\caches\transforms-2\files-2.1\0dbe142f95b417615dde3b5a91f46456\jetified-play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+23-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\hacke\.gradle\caches\transforms-2\files-2.1\0dbe142f95b417615dde3b5a91f46456\jetified-play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
 24        android:glEsVersion="0x00020000"
-24-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Tejee\.gradle\caches\transforms-2\files-2.1\0dbe142f95b417615dde3b5a91f46456\jetified-play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+24-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\hacke\.gradle\caches\transforms-2\files-2.1\0dbe142f95b417615dde3b5a91f46456\jetified-play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
 25        android:required="true" />
-25-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Tejee\.gradle\caches\transforms-2\files-2.1\0dbe142f95b417615dde3b5a91f46456\jetified-play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+25-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\hacke\.gradle\caches\transforms-2\files-2.1\0dbe142f95b417615dde3b5a91f46456\jetified-play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
 26
 27    <application
-27-->D:\GitHub\DailyHunt_Clone\app\src\main\AndroidManifest.xml:17:5-45:19
+27-->N:\DailyHunt\app\src\main\AndroidManifest.xml:17:5-48:19
 28        android:allowBackup="true"
-28-->D:\GitHub\DailyHunt_Clone\app\src\main\AndroidManifest.xml:18:9-35
+28-->N:\DailyHunt\app\src\main\AndroidManifest.xml:18:9-35
 29        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-29-->[androidx.core:core:1.3.2] C:\Users\Tejee\.gradle\caches\transforms-2\files-2.1\485d44df424513005a80cfcdc9130066\core-1.3.2\AndroidManifest.xml:24:18-86
+29-->[androidx.core:core:1.3.2] C:\Users\hacke\.gradle\caches\transforms-2\files-2.1\485d44df424513005a80cfcdc9130066\core-1.3.2\AndroidManifest.xml:24:18-86
 30        android:debuggable="true"
 31        android:icon="@drawable/logo"
-31-->D:\GitHub\DailyHunt_Clone\app\src\main\AndroidManifest.xml:19:9-38
+31-->N:\DailyHunt\app\src\main\AndroidManifest.xml:19:9-38
 32        android:label="@string/app_name"
-32-->D:\GitHub\DailyHunt_Clone\app\src\main\AndroidManifest.xml:20:9-41
+32-->N:\DailyHunt\app\src\main\AndroidManifest.xml:20:9-41
 33        android:roundIcon="@drawable/logo"
-33-->D:\GitHub\DailyHunt_Clone\app\src\main\AndroidManifest.xml:21:9-43
+33-->N:\DailyHunt\app\src\main\AndroidManifest.xml:21:9-43
 34        android:supportsRtl="true"
-34-->D:\GitHub\DailyHunt_Clone\app\src\main\AndroidManifest.xml:22:9-35
+34-->N:\DailyHunt\app\src\main\AndroidManifest.xml:22:9-35
 35        android:testOnly="true"
 36        android:theme="@style/Theme.DailyHunt_Clone" >
-36-->D:\GitHub\DailyHunt_Clone\app\src\main\AndroidManifest.xml:23:9-53
-37        <activity android:name="com.example.dailyhunt_clone.ActivityUserRegister" />
-37-->D:\GitHub\DailyHunt_Clone\app\src\main\AndroidManifest.xml:24:9-67
-37-->D:\GitHub\DailyHunt_Clone\app\src\main\AndroidManifest.xml:24:19-55
-38        <activity android:name="com.example.dailyhunt_clone.ActivityUserLogin" />
-38-->D:\GitHub\DailyHunt_Clone\app\src\main\AndroidManifest.xml:25:9-55
-38-->D:\GitHub\DailyHunt_Clone\app\src\main\AndroidManifest.xml:25:19-52
-39        <activity android:name="com.example.dailyhunt_clone.ActivityProfile" />
-39-->D:\GitHub\DailyHunt_Clone\app\src\main\AndroidManifest.xml:26:9-53
-39-->D:\GitHub\DailyHunt_Clone\app\src\main\AndroidManifest.xml:26:19-50
-40        <activity android:name="com.example.dailyhunt_clone.IntroductionActivity" >
-40-->D:\GitHub\DailyHunt_Clone\app\src\main\AndroidManifest.xml:27:9-33:20
-40-->D:\GitHub\DailyHunt_Clone\app\src\main\AndroidManifest.xml:27:19-55
-41            <intent-filter>
-41-->D:\GitHub\DailyHunt_Clone\app\src\main\AndroidManifest.xml:28:13-32:29
-42                <action android:name="android.intent.action.MAIN" />
-42-->D:\GitHub\DailyHunt_Clone\app\src\main\AndroidManifest.xml:29:17-69
-42-->D:\GitHub\DailyHunt_Clone\app\src\main\AndroidManifest.xml:29:25-66
-43
-44                <category android:name="android.intent.category.LAUNCHER" />
-44-->D:\GitHub\DailyHunt_Clone\app\src\main\AndroidManifest.xml:31:17-77
-44-->D:\GitHub\DailyHunt_Clone\app\src\main\AndroidManifest.xml:31:27-74
-45            </intent-filter>
-46        </activity>
-47
-48        <meta-data
-48-->D:\GitHub\DailyHunt_Clone\app\src\main\AndroidManifest.xml:35:9-37:71
-49            android:name="com.google.android.geo.API_KEY"
-49-->D:\GitHub\DailyHunt_Clone\app\src\main\AndroidManifest.xml:36:13-58
-50            android:value="AIzaSyCWhOENDpdi_Cs1e7KamWVzcDEUbTPmHzc" />
-50-->D:\GitHub\DailyHunt_Clone\app\src\main\AndroidManifest.xml:37:13-68
-51
-52        <activity android:name="com.example.dailyhunt_clone.CreatePostActivity" />
-52-->D:\GitHub\DailyHunt_Clone\app\src\main\AndroidManifest.xml:39:9-56
-52-->D:\GitHub\DailyHunt_Clone\app\src\main\AndroidManifest.xml:39:19-53
-53        <activity android:name="com.example.dailyhunt_clone.DiscoveryActivity" />
-53-->D:\GitHub\DailyHunt_Clone\app\src\main\AndroidManifest.xml:40:9-55
-53-->D:\GitHub\DailyHunt_Clone\app\src\main\AndroidManifest.xml:40:19-52
-54        <activity android:name="com.example.dailyhunt_clone.BrowseActivity" />
-54-->D:\GitHub\DailyHunt_Clone\app\src\main\AndroidManifest.xml:41:9-52
-54-->D:\GitHub\DailyHunt_Clone\app\src\main\AndroidManifest.xml:41:19-49
-55        <activity android:name="com.example.dailyhunt_clone.VideoActivity" />
-55-->D:\GitHub\DailyHunt_Clone\app\src\main\AndroidManifest.xml:42:9-51
-55-->D:\GitHub\DailyHunt_Clone\app\src\main\AndroidManifest.xml:42:19-48
-56        <activity android:name="com.example.dailyhunt_clone.HomeActivity" />
-56-->D:\GitHub\DailyHunt_Clone\app\src\main\AndroidManifest.xml:43:9-50
-56-->D:\GitHub\DailyHunt_Clone\app\src\main\AndroidManifest.xml:43:19-47
-57        <activity android:name="com.example.dailyhunt_clone.MainActivity" />
-57-->D:\GitHub\DailyHunt_Clone\app\src\main\AndroidManifest.xml:44:9-50
-57-->D:\GitHub\DailyHunt_Clone\app\src\main\AndroidManifest.xml:44:19-47
-58        <activity
-58-->[com.karumi:dexter:4.2.0] C:\Users\Tejee\.gradle\caches\transforms-2\files-2.1\33454806508556096a10d9f64e1fd807\jetified-dexter-4.2.0\AndroidManifest.xml:27:9-29:72
-59            android:name="com.karumi.dexter.DexterActivity"
-59-->[com.karumi:dexter:4.2.0] C:\Users\Tejee\.gradle\caches\transforms-2\files-2.1\33454806508556096a10d9f64e1fd807\jetified-dexter-4.2.0\AndroidManifest.xml:28:13-60
-60            android:theme="@style/Dexter.Internal.Theme.Transparent" />
-60-->[com.karumi:dexter:4.2.0] C:\Users\Tejee\.gradle\caches\transforms-2\files-2.1\33454806508556096a10d9f64e1fd807\jetified-dexter-4.2.0\AndroidManifest.xml:29:13-69
-61        <activity
-61-->[com.google.android.libraries.places:places:2.4.0] C:\Users\Tejee\.gradle\caches\transforms-2\files-2.1\5b3cd70ee318ad888f2a7350844448a7\jetified-places-2.4.0\AndroidManifest.xml:14:9-20:20
-62            android:name="com.google.android.libraries.places.widget.AutocompleteActivity"
-62-->[com.google.android.libraries.places:places:2.4.0] C:\Users\Tejee\.gradle\caches\transforms-2\files-2.1\5b3cd70ee318ad888f2a7350844448a7\jetified-places-2.4.0\AndroidManifest.xml:15:13-91
-63            android:exported="false"
-63-->[com.google.android.libraries.places:places:2.4.0] C:\Users\Tejee\.gradle\caches\transforms-2\files-2.1\5b3cd70ee318ad888f2a7350844448a7\jetified-places-2.4.0\AndroidManifest.xml:16:13-37
-64            android:label="@string/places_autocomplete_label"
-64-->[com.google.android.libraries.places:places:2.4.0] C:\Users\Tejee\.gradle\caches\transforms-2\files-2.1\5b3cd70ee318ad888f2a7350844448a7\jetified-places-2.4.0\AndroidManifest.xml:17:13-62
-65            android:theme="@style/PlacesAutocompleteOverlay"
-65-->[com.google.android.libraries.places:places:2.4.0] C:\Users\Tejee\.gradle\caches\transforms-2\files-2.1\5b3cd70ee318ad888f2a7350844448a7\jetified-places-2.4.0\AndroidManifest.xml:18:13-61
-66            android:windowSoftInputMode="adjustResize" >
-66-->[com.google.android.libraries.places:places:2.4.0] C:\Users\Tejee\.gradle\caches\transforms-2\files-2.1\5b3cd70ee318ad888f2a7350844448a7\jetified-places-2.4.0\AndroidManifest.xml:19:13-55
-67        </activity>
-68
-69        <meta-data
-69-->[com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\Tejee\.gradle\caches\transforms-2\files-2.1\dd1e75572b987fd8f7bf4a573842119f\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:11:9-13:43
-70            android:name="com.bumptech.glide.integration.okhttp3.OkHttpGlideModule"
-70-->[com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\Tejee\.gradle\caches\transforms-2\files-2.1\dd1e75572b987fd8f7bf4a573842119f\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:12:13-84
-71            android:value="GlideModule" />
-71-->[com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\Tejee\.gradle\caches\transforms-2\files-2.1\dd1e75572b987fd8f7bf4a573842119f\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:13:13-40
-72
-73        <activity
-73-->[com.sucho:placepicker:1.1.2] C:\Users\Tejee\.gradle\caches\transforms-2\files-2.1\d29839f6f451bf0da73a201f2c714a7a\jetified-placepicker-1.1.2\AndroidManifest.xml:12:9-14:67
-74            android:name="com.sucho.placepicker.PlacePickerActivity"
-74-->[com.sucho:placepicker:1.1.2] C:\Users\Tejee\.gradle\caches\transforms-2\files-2.1\d29839f6f451bf0da73a201f2c714a7a\jetified-placepicker-1.1.2\AndroidManifest.xml:13:13-69
-75            android:label="@string/title_activity_place_picker" /> <!-- Needs to be explicitly declared on P+ -->
-75-->[com.sucho:placepicker:1.1.2] C:\Users\Tejee\.gradle\caches\transforms-2\files-2.1\d29839f6f451bf0da73a201f2c714a7a\jetified-placepicker-1.1.2\AndroidManifest.xml:14:13-64
-76        <uses-library
-76-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Tejee\.gradle\caches\transforms-2\files-2.1\0dbe142f95b417615dde3b5a91f46456\jetified-play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
-77            android:name="org.apache.http.legacy"
-77-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Tejee\.gradle\caches\transforms-2\files-2.1\0dbe142f95b417615dde3b5a91f46456\jetified-play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
-78            android:required="false" />
-78-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Tejee\.gradle\caches\transforms-2\files-2.1\0dbe142f95b417615dde3b5a91f46456\jetified-play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
-79
-80        <service
-80-->[androidx.room:room-runtime:2.1.0] C:\Users\Tejee\.gradle\caches\transforms-2\files-2.1\4fb550cf4cd61855827d600a98595841\room-runtime-2.1.0\AndroidManifest.xml:25:9-27:40
-81            android:name="androidx.room.MultiInstanceInvalidationService"
-81-->[androidx.room:room-runtime:2.1.0] C:\Users\Tejee\.gradle\caches\transforms-2\files-2.1\4fb550cf4cd61855827d600a98595841\room-runtime-2.1.0\AndroidManifest.xml:26:13-74
-82            android:exported="false" />
-82-->[androidx.room:room-runtime:2.1.0] C:\Users\Tejee\.gradle\caches\transforms-2\files-2.1\4fb550cf4cd61855827d600a98595841\room-runtime-2.1.0\AndroidManifest.xml:27:13-37
-83
-84        <activity
-84-->[com.google.android.gms:play-services-base:17.2.1] C:\Users\Tejee\.gradle\caches\transforms-2\files-2.1\cae0bad1255b2f25a571e26a63a8de4f\jetified-play-services-base-17.2.1\AndroidManifest.xml:23:9-26:75
-85            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-85-->[com.google.android.gms:play-services-base:17.2.1] C:\Users\Tejee\.gradle\caches\transforms-2\files-2.1\cae0bad1255b2f25a571e26a63a8de4f\jetified-play-services-base-17.2.1\AndroidManifest.xml:24:13-79
-86            android:exported="false"
-86-->[com.google.android.gms:play-services-base:17.2.1] C:\Users\Tejee\.gradle\caches\transforms-2\files-2.1\cae0bad1255b2f25a571e26a63a8de4f\jetified-play-services-base-17.2.1\AndroidManifest.xml:25:13-37
-87            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-87-->[com.google.android.gms:play-services-base:17.2.1] C:\Users\Tejee\.gradle\caches\transforms-2\files-2.1\cae0bad1255b2f25a571e26a63a8de4f\jetified-play-services-base-17.2.1\AndroidManifest.xml:26:13-72
-88
-89        <meta-data
-89-->[com.google.android.gms:play-services-basement:17.2.1] C:\Users\Tejee\.gradle\caches\transforms-2\files-2.1\cff2cb40b8a4e52a8f3e32c8d2310822\jetified-play-services-basement-17.2.1\AndroidManifest.xml:23:9-25:69
-90            android:name="com.google.android.gms.version"
-90-->[com.google.android.gms:play-services-basement:17.2.1] C:\Users\Tejee\.gradle\caches\transforms-2\files-2.1\cff2cb40b8a4e52a8f3e32c8d2310822\jetified-play-services-basement-17.2.1\AndroidManifest.xml:24:13-58
-91            android:value="@integer/google_play_services_version" />
-91-->[com.google.android.gms:play-services-basement:17.2.1] C:\Users\Tejee\.gradle\caches\transforms-2\files-2.1\cff2cb40b8a4e52a8f3e32c8d2310822\jetified-play-services-basement-17.2.1\AndroidManifest.xml:25:13-66
-92
-93        <provider
-93-->[androidx.lifecycle:lifecycle-process:2.2.0-alpha01] C:\Users\Tejee\.gradle\caches\transforms-2\files-2.1\962f66dc9171b8bbf71aee3f89713d07\jetified-lifecycle-process-2.2.0-alpha01\AndroidManifest.xml:23:9-27:43
-94            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
-94-->[androidx.lifecycle:lifecycle-process:2.2.0-alpha01] C:\Users\Tejee\.gradle\caches\transforms-2\files-2.1\962f66dc9171b8bbf71aee3f89713d07\jetified-lifecycle-process-2.2.0-alpha01\AndroidManifest.xml:24:13-79
-95            android:authorities="com.example.dailyhunt_clone.lifecycle-process"
-95-->[androidx.lifecycle:lifecycle-process:2.2.0-alpha01] C:\Users\Tejee\.gradle\caches\transforms-2\files-2.1\962f66dc9171b8bbf71aee3f89713d07\jetified-lifecycle-process-2.2.0-alpha01\AndroidManifest.xml:25:13-69
-96            android:exported="false"
-96-->[androidx.lifecycle:lifecycle-process:2.2.0-alpha01] C:\Users\Tejee\.gradle\caches\transforms-2\files-2.1\962f66dc9171b8bbf71aee3f89713d07\jetified-lifecycle-process-2.2.0-alpha01\AndroidManifest.xml:26:13-37
-97            android:multiprocess="true" />
-97-->[androidx.lifecycle:lifecycle-process:2.2.0-alpha01] C:\Users\Tejee\.gradle\caches\transforms-2\files-2.1\962f66dc9171b8bbf71aee3f89713d07\jetified-lifecycle-process-2.2.0-alpha01\AndroidManifest.xml:27:13-40
-98
-99        <service
-99-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\Tejee\.gradle\caches\transforms-2\files-2.1\af36b65f3072394b160c28a1f6a1aa93\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:29:9-35:19
-100            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
-100-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\Tejee\.gradle\caches\transforms-2\files-2.1\af36b65f3072394b160c28a1f6a1aa93\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:30:13-103
-101            android:exported="false" >
-101-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\Tejee\.gradle\caches\transforms-2\files-2.1\af36b65f3072394b160c28a1f6a1aa93\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:31:13-37
-102            <meta-data
-102-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\Tejee\.gradle\caches\transforms-2\files-2.1\af36b65f3072394b160c28a1f6a1aa93\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:32:13-34:39
-103                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
-103-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\Tejee\.gradle\caches\transforms-2\files-2.1\af36b65f3072394b160c28a1f6a1aa93\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:33:17-94
-104                android:value="cct" />
-104-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\Tejee\.gradle\caches\transforms-2\files-2.1\af36b65f3072394b160c28a1f6a1aa93\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:34:17-36
-105        </service>
-106        <service
-106-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\Tejee\.gradle\caches\transforms-2\files-2.1\9558ad26deda12699081f521fab471af\jetified-transport-runtime-2.2.3\AndroidManifest.xml:26:9-30:19
-107            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
-107-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\Tejee\.gradle\caches\transforms-2\files-2.1\9558ad26deda12699081f521fab471af\jetified-transport-runtime-2.2.3\AndroidManifest.xml:27:13-117
-108            android:exported="false"
-108-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\Tejee\.gradle\caches\transforms-2\files-2.1\9558ad26deda12699081f521fab471af\jetified-transport-runtime-2.2.3\AndroidManifest.xml:28:13-37
-109            android:permission="android.permission.BIND_JOB_SERVICE" >
-109-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\Tejee\.gradle\caches\transforms-2\files-2.1\9558ad26deda12699081f521fab471af\jetified-transport-runtime-2.2.3\AndroidManifest.xml:29:13-69
-110        </service>
-111
-112        <receiver
-112-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\Tejee\.gradle\caches\transforms-2\files-2.1\9558ad26deda12699081f521fab471af\jetified-transport-runtime-2.2.3\AndroidManifest.xml:32:9-34:40
-113            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
-113-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\Tejee\.gradle\caches\transforms-2\files-2.1\9558ad26deda12699081f521fab471af\jetified-transport-runtime-2.2.3\AndroidManifest.xml:33:13-132
-114            android:exported="false" />
-114-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\Tejee\.gradle\caches\transforms-2\files-2.1\9558ad26deda12699081f521fab471af\jetified-transport-runtime-2.2.3\AndroidManifest.xml:34:13-37
-115    </application>
-116
-117</manifest>
+36-->N:\DailyHunt\app\src\main\AndroidManifest.xml:23:9-53
+37        <activity android:name="com.example.dailyhunt_clone.ActivityPostDetailOffline" >
+37-->N:\DailyHunt\app\src\main\AndroidManifest.xml:24:9-26:20
+37-->N:\DailyHunt\app\src\main\AndroidManifest.xml:24:19-60
+38        </activity>
+39        <activity android:name="com.example.dailyhunt_clone.ActivityUserRegister" />
+39-->N:\DailyHunt\app\src\main\AndroidManifest.xml:27:9-58
+39-->N:\DailyHunt\app\src\main\AndroidManifest.xml:27:19-55
+40        <activity android:name="com.example.dailyhunt_clone.ActivityUserLogin" />
+40-->N:\DailyHunt\app\src\main\AndroidManifest.xml:28:9-55
+40-->N:\DailyHunt\app\src\main\AndroidManifest.xml:28:19-52
+41        <activity android:name="com.example.dailyhunt_clone.ActivityProfile" />
+41-->N:\DailyHunt\app\src\main\AndroidManifest.xml:29:9-53
+41-->N:\DailyHunt\app\src\main\AndroidManifest.xml:29:19-50
+42        <activity android:name="com.example.dailyhunt_clone.IntroductionActivity" >
+42-->N:\DailyHunt\app\src\main\AndroidManifest.xml:30:9-36:20
+42-->N:\DailyHunt\app\src\main\AndroidManifest.xml:30:19-55
+43            <intent-filter>
+43-->N:\DailyHunt\app\src\main\AndroidManifest.xml:31:13-35:29
+44                <action android:name="android.intent.action.MAIN" />
+44-->N:\DailyHunt\app\src\main\AndroidManifest.xml:32:17-69
+44-->N:\DailyHunt\app\src\main\AndroidManifest.xml:32:25-66
+45
+46                <category android:name="android.intent.category.LAUNCHER" />
+46-->N:\DailyHunt\app\src\main\AndroidManifest.xml:34:17-77
+46-->N:\DailyHunt\app\src\main\AndroidManifest.xml:34:27-74
+47            </intent-filter>
+48        </activity>
+49
+50        <meta-data
+50-->N:\DailyHunt\app\src\main\AndroidManifest.xml:38:9-40:71
+51            android:name="com.google.android.geo.API_KEY"
+51-->N:\DailyHunt\app\src\main\AndroidManifest.xml:39:13-58
+52            android:value="AIzaSyCWhOENDpdi_Cs1e7KamWVzcDEUbTPmHzc" />
+52-->N:\DailyHunt\app\src\main\AndroidManifest.xml:40:13-68
+53
+54        <activity android:name="com.example.dailyhunt_clone.CreatePostActivity" />
+54-->N:\DailyHunt\app\src\main\AndroidManifest.xml:42:9-56
+54-->N:\DailyHunt\app\src\main\AndroidManifest.xml:42:19-53
+55        <activity android:name="com.example.dailyhunt_clone.DiscoveryActivity" />
+55-->N:\DailyHunt\app\src\main\AndroidManifest.xml:43:9-55
+55-->N:\DailyHunt\app\src\main\AndroidManifest.xml:43:19-52
+56        <activity android:name="com.example.dailyhunt_clone.BrowseActivity" />
+56-->N:\DailyHunt\app\src\main\AndroidManifest.xml:44:9-52
+56-->N:\DailyHunt\app\src\main\AndroidManifest.xml:44:19-49
+57        <activity android:name="com.example.dailyhunt_clone.VideoActivity" />
+57-->N:\DailyHunt\app\src\main\AndroidManifest.xml:45:9-51
+57-->N:\DailyHunt\app\src\main\AndroidManifest.xml:45:19-48
+58        <activity android:name="com.example.dailyhunt_clone.HomeActivity" />
+58-->N:\DailyHunt\app\src\main\AndroidManifest.xml:46:9-50
+58-->N:\DailyHunt\app\src\main\AndroidManifest.xml:46:19-47
+59        <activity android:name="com.example.dailyhunt_clone.MainActivity" />
+59-->N:\DailyHunt\app\src\main\AndroidManifest.xml:47:9-50
+59-->N:\DailyHunt\app\src\main\AndroidManifest.xml:47:19-47
+60        <activity
+60-->[com.karumi:dexter:4.2.0] C:\Users\hacke\.gradle\caches\transforms-2\files-2.1\0c8b9e3a74753a5327a149eb5dc0cd28\jetified-dexter-4.2.0\AndroidManifest.xml:27:9-29:72
+61            android:name="com.karumi.dexter.DexterActivity"
+61-->[com.karumi:dexter:4.2.0] C:\Users\hacke\.gradle\caches\transforms-2\files-2.1\0c8b9e3a74753a5327a149eb5dc0cd28\jetified-dexter-4.2.0\AndroidManifest.xml:28:13-60
+62            android:theme="@style/Dexter.Internal.Theme.Transparent" />
+62-->[com.karumi:dexter:4.2.0] C:\Users\hacke\.gradle\caches\transforms-2\files-2.1\0c8b9e3a74753a5327a149eb5dc0cd28\jetified-dexter-4.2.0\AndroidManifest.xml:29:13-69
+63        <activity
+63-->[com.google.android.libraries.places:places:2.4.0] C:\Users\hacke\.gradle\caches\transforms-2\files-2.1\5b3cd70ee318ad888f2a7350844448a7\jetified-places-2.4.0\AndroidManifest.xml:14:9-20:20
+64            android:name="com.google.android.libraries.places.widget.AutocompleteActivity"
+64-->[com.google.android.libraries.places:places:2.4.0] C:\Users\hacke\.gradle\caches\transforms-2\files-2.1\5b3cd70ee318ad888f2a7350844448a7\jetified-places-2.4.0\AndroidManifest.xml:15:13-91
+65            android:exported="false"
+65-->[com.google.android.libraries.places:places:2.4.0] C:\Users\hacke\.gradle\caches\transforms-2\files-2.1\5b3cd70ee318ad888f2a7350844448a7\jetified-places-2.4.0\AndroidManifest.xml:16:13-37
+66            android:label="@string/places_autocomplete_label"
+66-->[com.google.android.libraries.places:places:2.4.0] C:\Users\hacke\.gradle\caches\transforms-2\files-2.1\5b3cd70ee318ad888f2a7350844448a7\jetified-places-2.4.0\AndroidManifest.xml:17:13-62
+67            android:theme="@style/PlacesAutocompleteOverlay"
+67-->[com.google.android.libraries.places:places:2.4.0] C:\Users\hacke\.gradle\caches\transforms-2\files-2.1\5b3cd70ee318ad888f2a7350844448a7\jetified-places-2.4.0\AndroidManifest.xml:18:13-61
+68            android:windowSoftInputMode="adjustResize" >
+68-->[com.google.android.libraries.places:places:2.4.0] C:\Users\hacke\.gradle\caches\transforms-2\files-2.1\5b3cd70ee318ad888f2a7350844448a7\jetified-places-2.4.0\AndroidManifest.xml:19:13-55
+69        </activity>
+70
+71        <meta-data
+71-->[com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\hacke\.gradle\caches\transforms-2\files-2.1\dd1e75572b987fd8f7bf4a573842119f\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:11:9-13:43
+72            android:name="com.bumptech.glide.integration.okhttp3.OkHttpGlideModule"
+72-->[com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\hacke\.gradle\caches\transforms-2\files-2.1\dd1e75572b987fd8f7bf4a573842119f\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:12:13-84
+73            android:value="GlideModule" />
+73-->[com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\hacke\.gradle\caches\transforms-2\files-2.1\dd1e75572b987fd8f7bf4a573842119f\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:13:13-40
+74
+75        <activity
+75-->[com.sucho:placepicker:1.1.2] C:\Users\hacke\.gradle\caches\transforms-2\files-2.1\d29839f6f451bf0da73a201f2c714a7a\jetified-placepicker-1.1.2\AndroidManifest.xml:12:9-14:67
+76            android:name="com.sucho.placepicker.PlacePickerActivity"
+76-->[com.sucho:placepicker:1.1.2] C:\Users\hacke\.gradle\caches\transforms-2\files-2.1\d29839f6f451bf0da73a201f2c714a7a\jetified-placepicker-1.1.2\AndroidManifest.xml:13:13-69
+77            android:label="@string/title_activity_place_picker" /> <!-- Needs to be explicitly declared on P+ -->
+77-->[com.sucho:placepicker:1.1.2] C:\Users\hacke\.gradle\caches\transforms-2\files-2.1\d29839f6f451bf0da73a201f2c714a7a\jetified-placepicker-1.1.2\AndroidManifest.xml:14:13-64
+78        <uses-library
+78-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\hacke\.gradle\caches\transforms-2\files-2.1\0dbe142f95b417615dde3b5a91f46456\jetified-play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+79            android:name="org.apache.http.legacy"
+79-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\hacke\.gradle\caches\transforms-2\files-2.1\0dbe142f95b417615dde3b5a91f46456\jetified-play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+80            android:required="false" />
+80-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\hacke\.gradle\caches\transforms-2\files-2.1\0dbe142f95b417615dde3b5a91f46456\jetified-play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+81
+82        <service
+82-->[androidx.room:room-runtime:2.1.0] C:\Users\hacke\.gradle\caches\transforms-2\files-2.1\4fb550cf4cd61855827d600a98595841\room-runtime-2.1.0\AndroidManifest.xml:25:9-27:40
+83            android:name="androidx.room.MultiInstanceInvalidationService"
+83-->[androidx.room:room-runtime:2.1.0] C:\Users\hacke\.gradle\caches\transforms-2\files-2.1\4fb550cf4cd61855827d600a98595841\room-runtime-2.1.0\AndroidManifest.xml:26:13-74
+84            android:exported="false" />
+84-->[androidx.room:room-runtime:2.1.0] C:\Users\hacke\.gradle\caches\transforms-2\files-2.1\4fb550cf4cd61855827d600a98595841\room-runtime-2.1.0\AndroidManifest.xml:27:13-37
+85
+86        <activity
+86-->[com.google.android.gms:play-services-base:17.2.1] C:\Users\hacke\.gradle\caches\transforms-2\files-2.1\cae0bad1255b2f25a571e26a63a8de4f\jetified-play-services-base-17.2.1\AndroidManifest.xml:23:9-26:75
+87            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+87-->[com.google.android.gms:play-services-base:17.2.1] C:\Users\hacke\.gradle\caches\transforms-2\files-2.1\cae0bad1255b2f25a571e26a63a8de4f\jetified-play-services-base-17.2.1\AndroidManifest.xml:24:13-79
+88            android:exported="false"
+88-->[com.google.android.gms:play-services-base:17.2.1] C:\Users\hacke\.gradle\caches\transforms-2\files-2.1\cae0bad1255b2f25a571e26a63a8de4f\jetified-play-services-base-17.2.1\AndroidManifest.xml:25:13-37
+89            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+89-->[com.google.android.gms:play-services-base:17.2.1] C:\Users\hacke\.gradle\caches\transforms-2\files-2.1\cae0bad1255b2f25a571e26a63a8de4f\jetified-play-services-base-17.2.1\AndroidManifest.xml:26:13-72
+90
+91        <meta-data
+91-->[com.google.android.gms:play-services-basement:17.2.1] C:\Users\hacke\.gradle\caches\transforms-2\files-2.1\cff2cb40b8a4e52a8f3e32c8d2310822\jetified-play-services-basement-17.2.1\AndroidManifest.xml:23:9-25:69
+92            android:name="com.google.android.gms.version"
+92-->[com.google.android.gms:play-services-basement:17.2.1] C:\Users\hacke\.gradle\caches\transforms-2\files-2.1\cff2cb40b8a4e52a8f3e32c8d2310822\jetified-play-services-basement-17.2.1\AndroidManifest.xml:24:13-58
+93            android:value="@integer/google_play_services_version" />
+93-->[com.google.android.gms:play-services-basement:17.2.1] C:\Users\hacke\.gradle\caches\transforms-2\files-2.1\cff2cb40b8a4e52a8f3e32c8d2310822\jetified-play-services-basement-17.2.1\AndroidManifest.xml:25:13-66
+94
+95        <provider
+95-->[androidx.lifecycle:lifecycle-process:2.2.0-alpha01] C:\Users\hacke\.gradle\caches\transforms-2\files-2.1\962f66dc9171b8bbf71aee3f89713d07\jetified-lifecycle-process-2.2.0-alpha01\AndroidManifest.xml:23:9-27:43
+96            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+96-->[androidx.lifecycle:lifecycle-process:2.2.0-alpha01] C:\Users\hacke\.gradle\caches\transforms-2\files-2.1\962f66dc9171b8bbf71aee3f89713d07\jetified-lifecycle-process-2.2.0-alpha01\AndroidManifest.xml:24:13-79
+97            android:authorities="com.example.dailyhunt_clone.lifecycle-process"
+97-->[androidx.lifecycle:lifecycle-process:2.2.0-alpha01] C:\Users\hacke\.gradle\caches\transforms-2\files-2.1\962f66dc9171b8bbf71aee3f89713d07\jetified-lifecycle-process-2.2.0-alpha01\AndroidManifest.xml:25:13-69
+98            android:exported="false"
+98-->[androidx.lifecycle:lifecycle-process:2.2.0-alpha01] C:\Users\hacke\.gradle\caches\transforms-2\files-2.1\962f66dc9171b8bbf71aee3f89713d07\jetified-lifecycle-process-2.2.0-alpha01\AndroidManifest.xml:26:13-37
+99            android:multiprocess="true" />
+99-->[androidx.lifecycle:lifecycle-process:2.2.0-alpha01] C:\Users\hacke\.gradle\caches\transforms-2\files-2.1\962f66dc9171b8bbf71aee3f89713d07\jetified-lifecycle-process-2.2.0-alpha01\AndroidManifest.xml:27:13-40
+100
+101        <service
+101-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\hacke\.gradle\caches\transforms-2\files-2.1\af36b65f3072394b160c28a1f6a1aa93\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:29:9-35:19
+102            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+102-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\hacke\.gradle\caches\transforms-2\files-2.1\af36b65f3072394b160c28a1f6a1aa93\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:30:13-103
+103            android:exported="false" >
+103-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\hacke\.gradle\caches\transforms-2\files-2.1\af36b65f3072394b160c28a1f6a1aa93\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:31:13-37
+104            <meta-data
+104-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\hacke\.gradle\caches\transforms-2\files-2.1\af36b65f3072394b160c28a1f6a1aa93\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:32:13-34:39
+105                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+105-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\hacke\.gradle\caches\transforms-2\files-2.1\af36b65f3072394b160c28a1f6a1aa93\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:33:17-94
+106                android:value="cct" />
+106-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\hacke\.gradle\caches\transforms-2\files-2.1\af36b65f3072394b160c28a1f6a1aa93\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:34:17-36
+107        </service>
+108        <service
+108-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\hacke\.gradle\caches\transforms-2\files-2.1\9558ad26deda12699081f521fab471af\jetified-transport-runtime-2.2.3\AndroidManifest.xml:26:9-30:19
+109            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+109-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\hacke\.gradle\caches\transforms-2\files-2.1\9558ad26deda12699081f521fab471af\jetified-transport-runtime-2.2.3\AndroidManifest.xml:27:13-117
+110            android:exported="false"
+110-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\hacke\.gradle\caches\transforms-2\files-2.1\9558ad26deda12699081f521fab471af\jetified-transport-runtime-2.2.3\AndroidManifest.xml:28:13-37
+111            android:permission="android.permission.BIND_JOB_SERVICE" >
+111-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\hacke\.gradle\caches\transforms-2\files-2.1\9558ad26deda12699081f521fab471af\jetified-transport-runtime-2.2.3\AndroidManifest.xml:29:13-69
+112        </service>
+113
+114        <receiver
+114-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\hacke\.gradle\caches\transforms-2\files-2.1\9558ad26deda12699081f521fab471af\jetified-transport-runtime-2.2.3\AndroidManifest.xml:32:9-34:40
+115            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+115-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\hacke\.gradle\caches\transforms-2\files-2.1\9558ad26deda12699081f521fab471af\jetified-transport-runtime-2.2.3\AndroidManifest.xml:33:13-132
+116            android:exported="false" />
+116-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\hacke\.gradle\caches\transforms-2\files-2.1\9558ad26deda12699081f521fab471af\jetified-transport-runtime-2.2.3\AndroidManifest.xml:34:13-37
+117    </application>
+118
+119</manifest>

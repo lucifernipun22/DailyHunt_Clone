@@ -139,6 +139,8 @@ attr behavior_peekHeight
 attr behavior_saveFlags
 attr behavior_skipCollapsed
 attr borderWidth
+attr border_color
+attr border_width
 attr borderlessButtonStyle
 attr bottomAppBarStyle
 attr bottomNavigationStyle
@@ -302,6 +304,7 @@ attr cornerSizeBottomLeft
 attr cornerSizeBottomRight
 attr cornerSizeTopLeft
 attr cornerSizeTopRight
+attr corner_radius
 attr counterEnabled
 attr counterMaxLength
 attr counterOverflowTextAppearance
@@ -437,6 +440,7 @@ attr foregroundInsidePadding
 attr framePosition
 attr gapBetweenBars
 attr gestureInsetBottomIgnored
+attr gnt_template_type
 attr goIcon
 attr haloColor
 attr haloRadius
@@ -481,6 +485,7 @@ attr initialActivityCount
 attr insetForeground
 attr isLightTheme
 attr isMaterialTheme
+attr is_oval
 attr itemBackground
 attr itemFillColor
 attr itemHorizontalPadding
@@ -749,6 +754,7 @@ attr reverseLayout
 attr rippleColor
 attr round
 attr roundPercent
+attr round_background
 attr saturation
 attr scopeUris
 attr scrimAnimationDuration
@@ -1041,6 +1047,7 @@ color colorAccentAlpha_10
 color colorBackgroundDark
 color colorGreenDarker
 color colorGreenDarkerAlpha_10
+color colorGreyMedium
 color colorPrimary
 color colorPrimaryDark
 color colorPrimaryLight
@@ -1106,6 +1113,12 @@ color error_color_material_dark
 color error_color_material_light
 color foreground_material_dark
 color foreground_material_light
+color gnt_ad_green
+color gnt_blue
+color gnt_gray
+color gnt_outline
+color gnt_test_background_color
+color gnt_white
 color gradient_end
 color gradient_start
 color highlighted_text_material_dark
@@ -1747,6 +1760,17 @@ dimen disabled_alpha_material_light
 dimen fastscroll_default_thickness
 dimen fastscroll_margin
 dimen fastscroll_minimum_range
+dimen gnt_ad_indicator_height
+dimen gnt_ad_indicator_text_size
+dimen gnt_ad_indicator_top_margin
+dimen gnt_ad_indicator_width
+dimen gnt_default_margin
+dimen gnt_no_margin
+dimen gnt_no_size
+dimen gnt_small_margin
+dimen gnt_text_row_weight
+dimen gnt_text_size_large
+dimen gnt_text_size_small
 dimen highlight_alpha_material_colored
 dimen highlight_alpha_material_dark
 dimen highlight_alpha_material_light
@@ -2152,6 +2176,7 @@ drawable background_indicator_disabled
 drawable background_indicator_enabled
 drawable bbclogo
 drawable bg_button_background
+drawable blue_circle
 drawable blue_rectangle
 drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
@@ -2190,6 +2215,7 @@ drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
 drawable finincial
+drawable gnt_rounded_corners_shape
 drawable googleg_disabled_color_18
 drawable googleg_standard_color_18
 drawable grey_border
@@ -2203,12 +2229,14 @@ drawable ic_about_rate
 drawable ic_add_gallery_56
 drawable ic_baseline_email_24
 drawable ic_baseline_location_on_24
+drawable ic_baseline_mode_comment_24
 drawable ic_baseline_photo_camera_24
 drawable ic_baseline_vpn_key_24
 drawable ic_bell
 drawable ic_blocked
 drawable ic_check
 drawable ic_clock_black_24dp
+drawable ic_comment
 drawable ic_compass
 drawable ic_copyright
 drawable ic_cricket
@@ -2241,6 +2269,7 @@ drawable ic_star
 drawable ic_star2
 drawable ic_stat_onesignal_default
 drawable ic_thumb_down
+drawable ic_thumbnail_video
 drawable ic_tv
 drawable ic_tv2
 drawable ic_user
@@ -2300,6 +2329,9 @@ drawable quantum_ic_search_grey600_24
 drawable red_loctation
 drawable senatial
 drawable statesman
+drawable tab_indicator_default
+drawable tab_indicator_selected
+drawable tab_selector
 drawable telegraph
 drawable test_custom_background
 drawable theindianexpress
@@ -2391,6 +2423,7 @@ id action_mode_close_button
 id action_text
 id actions
 id activity_chooser_view_content
+id ad_notification_view
 id add
 id adjust_height
 id adjust_width
@@ -2400,6 +2433,7 @@ id all
 id always
 id animateToEnd
 id animateToStart
+id appBarLayout
 id appbar
 id asConfigured
 id async
@@ -2408,12 +2442,14 @@ id autoComplete
 id autoCompleteToEnd
 id autoCompleteToStart
 id back_btn
+id background
 id barrier
 id baseline
 id beginOnFirstDraw
 id beginning
 id block
 id blocking
+id body
 id bottom
 id bottomActionbarDiscover
 id bottomUp
@@ -2422,9 +2458,9 @@ id browsebtn
 id btnLocation
 id btnWpShare1
 id btn_about
+id btn_comment
 id btn_create
 id btn_edit
-id btn_login
 id btn_login2
 id btn_logout
 id btn_more
@@ -2451,6 +2487,8 @@ id cardView5
 id cardView7
 id cardView8
 id cardView9
+id card_media_view
+id category
 id center
 id center_horizontal
 id center_play_btn
@@ -2482,10 +2520,12 @@ id coordinator
 id cos
 id counterclockwise
 id createPost
+id cta
 id custom
 id customPanel
 id cut
 id dark
+id date
 id date_picker_actions
 id decelerate
 id decelerateAndComplete
@@ -2557,10 +2597,12 @@ id groups
 id guideline
 id has_played
 id header_title
+id headline
 id hideable
 id home
 id homeAsUp
 id home_viewPager
+id home_viewPager2
 id honorRequest
 id hybrid
 id icon
@@ -2606,6 +2648,9 @@ id ivWhatsapp
 id ivmenu
 id ivnewsMedia
 id ivretweet
+id ivtrend2
+id ivtrend3
+id ivtrend4
 id jumpToEnd
 id jumpToStart
 id labelGroup
@@ -2627,7 +2672,12 @@ id loading_layout
 id loading_text
 id location
 id lyt_bottom
+id lyt_date
+id lyt_head
+id lyt_icon
+id lyt_image
 id lyt_login_register
+id lyt_main_content
 id map
 id marker_image_view
 id marker_shadow_image_view
@@ -2653,6 +2703,7 @@ id material_timepicker_view
 id material_value_index
 id media_actions
 id media_controller
+id menu
 id message
 id middle
 id mini
@@ -2688,8 +2739,10 @@ id mtrl_picker_title_text
 id mtrl_view_tag_bottom_padding
 id multiply
 id my_location_button
+id my_template
 id navigation_header_container
 id never
+id news_description
 id noScroll
 id none
 id normal
@@ -2736,12 +2789,14 @@ id places_autocomplete_try_again
 id places_autocomplete_try_again_progress
 id position
 id postLayout
+id primary
 id profile_image
 id progress_bar_place
 id progress_circular
 id progress_horizontal
 id publishat
 id radio
+id rating_bar
 id ratio
 id rcvforyounews
 id rectangles
@@ -2756,6 +2811,7 @@ id root_layout
 id root_view
 id rounded
 id row_index_key
+id row_two
 id satellite
 id save_non_transition_alpha
 id save_overlay_view
@@ -2779,6 +2835,7 @@ id search_mag_icon
 id search_plate
 id search_src_text
 id search_voice_btn
+id secondary
 id seeAll
 id seekbar
 id select_dialog_listview
@@ -2824,6 +2881,7 @@ id subtitle_view_first
 id subtitle_view_second
 id subtitle_view_third
 id switch_theme
+id tabDots
 id tabLayout
 id tabMode
 id tag_accessibility_actions
@@ -2848,6 +2906,7 @@ id textStart
 id textTop
 id textView
 id textView2
+id textView3
 id textView6
 id textView7
 id textView8
@@ -2863,6 +2922,7 @@ id textinput_helper_text
 id textinput_placeholder
 id textinput_prefix_text
 id textinput_suffix_text
+id thumbnail_video
 id time
 id title
 id title1
@@ -2886,6 +2946,9 @@ id transition_layout_save
 id transition_position
 id transition_scene_layoutid_cache
 id transition_transform
+id trend2
+id trend3
+id trend4
 id triangle
 id turn_button
 id tvAlert
@@ -2900,10 +2963,11 @@ id tvName
 id tvProfile
 id tvWishList
 id tvnewsHeading
+id txt_comment_count
+id txt_comment_text
 id txt_email
 id txt_forgot
 id txt_not_registered
-id txt_register
 id txt_terms
 id txt_username
 id txt_welcome
@@ -2920,6 +2984,7 @@ id view2
 id view3
 id view5
 id view6
+id viewLine
 id view_offset_helper
 id view_sign_in
 id view_sign_out
@@ -2998,12 +3063,14 @@ layout activity_homes
 layout activity_introduction
 layout activity_main
 layout activity_place_picker
+layout activity_post_detail_offline
 layout activity_profile
 layout activity_user_login
 layout activity_user_register
 layout activity_video
 layout bottom_sheet_layout
 layout custom_dialog
+layout custom_dialog_about
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
 layout design_layout_snackbar
@@ -3029,7 +3096,10 @@ layout fragment_entertainment
 layout fragment_following
 layout fragment_for_you
 layout fragment_news
+layout gnt_medium_template_view
+layout gnt_small_template_view
 layout include_about
+layout include_news_content
 layout include_sign_in
 layout include_sign_out
 layout material_chip_input_combo
@@ -3357,6 +3427,7 @@ style Animation_AppCompat_Tooltip
 style Animation_Design_BottomSheetDialog
 style Animation_MaterialComponents_BottomSheetDialog
 style AppTheme
+style AppTheme_AppBarOverlay
 style AppTheme_Headlines_TabTextAppearance
 style AppTheme_OptionsBottomSheetButton
 style Base_AlertDialog_AppCompat
@@ -4197,6 +4268,7 @@ styleable RadialViewGroup materialCircleRadius
 styleable RangeSlider minSeparation values
 styleable RecycleListView paddingBottomNoButtons paddingTopNoTitle
 styleable RecyclerView android_orientation android_clipToPadding android_descendantFocusability fastScrollEnabled fastScrollHorizontalThumbDrawable fastScrollHorizontalTrackDrawable fastScrollVerticalThumbDrawable fastScrollVerticalTrackDrawable layoutManager reverseLayout spanCount stackFromEnd
+styleable RoundedImageView android_scaleType border_color border_width corner_radius is_oval round_background
 styleable ScrimInsetsFrameLayout insetForeground
 styleable ScrollingViewBehavior_Layout behavior_overlapTop
 styleable SearchView android_focusable android_maxWidth android_inputType android_imeOptions closeIcon commitIcon defaultQueryHint goIcon iconifiedByDefault layout queryBackground queryHint searchHintIcon searchIcon submitBackground suggestionRowLayout voiceIcon
@@ -4216,6 +4288,7 @@ styleable SwitchCompat android_textOn android_textOff android_thumb showText spl
 styleable SwitchMaterial useMaterialThemeColors
 styleable TabItem android_icon android_layout android_text
 styleable TabLayout tabBackground tabContentStart tabGravity tabIconTint tabIconTintMode tabIndicator tabIndicatorAnimationDuration tabIndicatorAnimationMode tabIndicatorColor tabIndicatorFullWidth tabIndicatorGravity tabIndicatorHeight tabInlineLabel tabMaxWidth tabMinWidth tabMode tabPadding tabPaddingBottom tabPaddingEnd tabPaddingStart tabPaddingTop tabRippleColor tabSelectedTextColor tabTextAppearance tabTextColor tabUnboundedRipple
+styleable TemplateView gnt_template_type
 styleable TextAppearance android_textSize android_typeface android_textStyle android_textColor android_textColorHint android_textColorLink android_shadowColor android_shadowDx android_shadowDy android_shadowRadius android_fontFamily android_textFontWeight fontFamily fontVariationSettings textAllCaps textLocale
 styleable TextInputEditText textInputLayoutFocusedRectEnabled
 styleable TextInputLayout android_enabled android_textColorHint android_hint boxBackgroundColor boxBackgroundMode boxCollapsedPaddingTop boxCornerRadiusBottomEnd boxCornerRadiusBottomStart boxCornerRadiusTopEnd boxCornerRadiusTopStart boxStrokeColor boxStrokeErrorColor boxStrokeWidth boxStrokeWidthFocused counterEnabled counterMaxLength counterOverflowTextAppearance counterOverflowTextColor counterTextAppearance counterTextColor endIconCheckable endIconContentDescription endIconDrawable endIconMode endIconTint endIconTintMode errorContentDescription errorEnabled errorIconDrawable errorIconTint errorIconTintMode errorTextAppearance errorTextColor expandedHintEnabled helperText helperTextEnabled helperTextTextAppearance helperTextTextColor hintAnimationEnabled hintEnabled hintTextAppearance hintTextColor passwordToggleContentDescription passwordToggleDrawable passwordToggleEnabled passwordToggleTint passwordToggleTintMode placeholderText placeholderTextAppearance placeholderTextColor prefixText prefixTextAppearance prefixTextColor shapeAppearance shapeAppearanceOverlay startIconCheckable startIconContentDescription startIconDrawable startIconTint startIconTintMode suffixText suffixTextAppearance suffixTextColor

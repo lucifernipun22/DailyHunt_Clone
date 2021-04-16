@@ -21,7 +21,10 @@
         android:roundIcon="@drawable/logo"
         android:supportsRtl="true"
         android:theme="@style/Theme.DailyHunt_Clone">
-        <activity android:name=".ActivityUserRegister"></activity>
+        <activity android:name=".ActivityPostDetailOffline">
+
+        </activity>
+        <activity android:name=".ActivityUserRegister" />
         <activity android:name=".ActivityUserLogin" />
         <activity android:name=".ActivityProfile" />
         <activity android:name=".IntroductionActivity">
